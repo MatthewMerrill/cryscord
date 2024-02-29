@@ -1,0 +1,9 @@
+name: cryscord
+version: 0.1.0
+
+authors:
+  - Matthew Merrill <git@mattmerr.com>
+
+crystal: '>= 1.11.2'
+
+license: MIT
